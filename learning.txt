@@ -1,1 +1,2 @@
-I have learnt how to use github
+ What I have learned from this course:
+I have learned how to set up SSH keys, clone a repository, and push changes using Git.
